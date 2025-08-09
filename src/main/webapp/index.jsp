@@ -865,7 +865,7 @@
             </div>
             <div class="category-card">
                 <div class="category-icon"><i class="fas fa-shoe-prints"></i></div>
-                <h3>Footwear</h3>
+                <h3>Jewllery</h3>
                 <p>Comfortable & stylish shoes</p>
             </div>
             <div class="category-card">
