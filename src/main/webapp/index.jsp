@@ -487,7 +487,7 @@
         }
 
         .testimonial-card {
-            min-width: 350px;
+            min-width: 250px;
             background-color: white;
             border-radius: 10px;
             padding: 30px;
